@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 PhD Candidate, University of Washington, Seattle
 ------------------------------------------------
 
-I am a Ph.D. candidate in computational neuroscience with 7+ years of experience in large-scale data analysis, machine learning, and hardware-software and system development. Expertise in signal processing, Bayesian inference and cognitive modeling. Proven ability to lead cross-functional teams, deliver data-driven insights, and develop innovative solutions.
-
+I am a Ph.D. candidate in computational neuroscience with 7+ years of experience in large-scale data analysis, machine learning, and hardware-software and system development. My coding skills complement my hardware and design expertise, enabling me to develop integrated software solutions, user-friendly interfaces, data acquisition tools, and control algorithms.
+Expertise in signal processing, Bayesian inference and cognitive modeling. Proven ability to lead cross-functional teams, deliver data-driven insights, and develop innovative solutions. 
 * 🌍  I'm based in Seattle, USA
 * ✉️  You can contact me at [vaibhavt459@gmail.com](mailto:vaibhavt459@gmail.com)
 * 🚀  I'm currently working on [Distributed System for Close-Loop Neuroscience Experiments](http://https://github.com/vaibrainium/NeuRPi)
