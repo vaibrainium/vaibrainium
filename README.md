@@ -32,6 +32,4 @@ I am a Ph.D. candidate in computational neuroscience with 7+ years of experience
 
 <a href="http://www.github.com/vaibrainium"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibrainium&stroke=f97316&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/vaibrainium"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vaibrainium&bg_color=22272e&color=f97316&line=facc15&point=f97316&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/vaibrainium" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibrainium&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
