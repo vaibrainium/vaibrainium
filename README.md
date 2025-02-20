@@ -30,7 +30,7 @@ Expertise in signal processing, Bayesian inference and cognitive modeling. Prove
 
 <a href="http://www.github.com/vaibrainium"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibrainium&stroke=f97316&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/vaibrainium" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibrainium&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vaibrainium" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibrainium&hide=jupyter%20notebook&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/vaibrainium"><img src="https://github-readme-stats.vercel.app/api?username=vaibrainium&show_icons=true&hide=C,C%2C&hide_contributor_rank=false&count_private=true&combine_all_yearly_contributions=true&title_color=0891b2&text_color=f97316&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="vaibrainium's GitHub stats" /></a>
+<a href="http://www.github.com/vaibrainium"><img src="https://github-readme-stats.vercel.app/api?username=vaibrainium&hide=contribs&show_icons=true&hide_contributor_rank=false&count_private=true&combine_all_yearly_contributions=true&title_color=0891b2&text_color=f97316&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="vaibrainium's GitHub stats" /></a>
 <!-- -->
