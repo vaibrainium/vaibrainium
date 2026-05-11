@@ -16,7 +16,7 @@ I'm looking for **ML Scientist** and **Research Scientist** roles in AI, health 
 - 🤝 Open to collaborating on ML, neuroscience, and BCI projects
 
 ---
-
+<!--
 ### What I Work On
 
 | Project | Description | Stack |
@@ -25,7 +25,7 @@ I'm looking for **ML Scientist** and **Research Scientist** roles in AI, health 
 | DDM Fitting Pipeline | Hierarchical drift diffusion model fitting with GPU-accelerated parameter recovery | PyTorch, NumPy, CUDA |
 | Spike Sorting QC | Unified QC pipeline integrating Kilosort/Phy and Blackrock NEV with per-unit diagnostics | Python, Matplotlib |
 | Neural Decoding | EEG-based cognitive state classification with conformal prediction calibration | PyTorch, MNE, scikit-learn |
-
+<!-- -->
 
 ### Skills
 
